@@ -25,10 +25,10 @@
 ### CONSTRUCTION PHASE
 **Current Unit**: Auth Service (Unit 1 of 5)
 
-- [ ] Functional Design - PENDING (per-unit)
-- [ ] NFR Requirements - PENDING (per-unit)
-- [ ] NFR Design - PENDING (per-unit)
-- [ ] Infrastructure Design - PENDING (per-unit)
+- [x] Functional Design - COMPLETED (2026-01-12T14:54:00+00:00)
+- [x] NFR Requirements - COMPLETED (2026-01-12T14:55:50+00:00)
+- [x] NFR Design - COMPLETED (2026-01-12T14:55:55+00:00)
+- [x] Infrastructure Design - COMPLETED (2026-01-12T14:56:00+00:00)
 - [ ] Code Generation - PENDING (per-unit)
 - [ ] Build and Test - PENDING (after all units)
 
